@@ -1,0 +1,3 @@
+-w,a,s,d kretanje koje je moguce nakon odredjenih animacija
+-space pucanje projektila, 3 pogotka = kill
+-ako su tri projektila na ekranu moguce je levim klikom upaliti laser
